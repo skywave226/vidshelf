@@ -1,0 +1,10 @@
+[application]
+name = "video-manager-ui"
+default_platform = "web"
+asset_dir = "assets"
+
+[web.app]
+title = "本地视频管理"
+
+[web.wasm_opt]
+level = "z"
